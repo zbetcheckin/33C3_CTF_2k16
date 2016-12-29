@@ -94,7 +94,7 @@ Original query : `G4JUSBIXCV2G65DBNQQDKNSLBIZDMMRUGE4DIIDEOJ3XQ4RNPBZC26BAGMQGM4
 263
 ```
 
-Sounds GOOD, we can see that from the server code, we have some chars (6 bytes) in front of each data decoded. I tried to simply removed it ^^.
+We can see that from the server code, each query begins with 6 bytes which contain the the acknowledgement, conversation ID and sequence number. I simply removed it to decode all communication.
 
 So, the idea here is, we need to : 
 * Have one query/response per line to decode it easly
