@@ -1,0 +1,143 @@
+uid=1001(fpetry) gid=1001(fpetry) groups=1001(fpetry)
+total 36K
+2624184 drwxr-xr-x 2 fpetry fpetry 4.0K Dec 17 13:30 .
+2621441 drwxr-xr-x 5 root   root   4.0K Dec 17 13:06 ..
+2631209 -rw------- 1 fpetry fpetry   42 Dec 17 13:07 .bash_history
+2627663 -rw-r--r-- 1 fpetry fpetry  220 Dec 17 13:06 .bash_logout
+2631208 -rw-r--r-- 1 fpetry fpetry 3.7K Dec 17 13:06 .bashrc
+2631221 -rw------- 1 fpetry fpetry   33 Dec 17 13:24 .lesshst
+2627664 -rw-r--r-- 1 fpetry fpetry  675 Dec 17 13:06 .profile
+2631216 -rw-r--r-- 1 fpetry fpetry 4.0K Dec 17 13:17 secrgpg: directory `/home/fpetry/.gnupg' created
+gpg: new configuration file `/home/fpetry/.gnupg/gpg.conf' created
+gpg: WARNING: options in `/home/fpetry/.gnupg/gpg.conf' are not yet active during this run
+gpg: keyring `/home/fpetry/.gnupg/secring.gpg' created
+gpg: keyring `/home/fpetry/.gnupg/pubring.gpg' created
+gpg: /home/fpetry/.gnupg/trustdb.gpg: trustdb created
+gpg: key D0D8161F: public key "operator from hell <team@kitctf.de>" imported
+gpg: key D0D8161F: secret key imported
+gpg: key D0D8161F: "operator from hell <team@kitctf.de>" not changed
+gpg: Total number processed: 2
+gpg:               imported: 1  (RSA:total 56K
+2624184 drwxr-xr-x 3 fpetry fpetry 4.0K Dec 17 13:31 .
+2621441 drwxr-xr-x 5 root   root   4.0K Dec 17 13:06 ..
+2631209 -rw------- 1 fpetry fpetry   42 Dec 17 13:07 .bash_history
+2627663 -rw-r--r-- 1 fpetry fpetry  220 Dec 17 13:06 .bash_logout
+2631208 -rw-r--r-- 1 fpetry fpetry 3.7K Dec 17 13:06 .bashrc
+2631219 drwx------ 2 fpetry fpetry 4.0K Dec 17 13:31 .gnupg
+2631217 -rw-rw-r-- 1 fpetry fpetry 5.2K Dec 17 13:31 key
+2631221 -rw------- 1 fpetry fpetry   33 Dec 17 13:24 .lesshst
+2627664 -rw-r--r-- 1 fpetry fpetry  675 Dec 17 13:06 .profile
+2631216 -rw-r--r-- 1 fpetry fpetry 4.0K Dec 17 13:17 secret.docx
+2631222 -rw-rw-r-- 1 fpetry fpetry 4.4K Dec 17 13:31 secret.docx.gpg
+2631218 -rw------- 1 fpetry fpetry  908 Dec 17 13:21 .START_OF_FILE...special char here...=END_OF_FILE/bin/bash: line 97: $'\E[?1': command not found
+/bin/bash: line 97: $'2c\E[?1': command not found
+/bin/bash: line 97: $'2c\Etotal 40K
+2624184 drwxr-xr-x 3 fpetry fpetry 4.0K Dec 17 13:32 .
+2621441 drwxr-xr-x 5 root   root   4.0K Dec 17 13:06 ..
+2631209 -rw------- 1 fpetry fpetry   42 Dec 17 13:07 .bash_history
+2627663 -rw-r--r-- 1 fpetry fpetry  220 Dec 17 13:06 .bash_logout
+2631208 -rw-r--r-- 1 fpetry fpetry 3.7K Dec 17 13:06 .bashrc
+2631219 drwx------ 2 fpetry fpetry 4.0K Dec 17 13:31 .gnupg
+2631221 -rw------- 1 fpetry fpetry   33 Dec 17 13:24 .lesshst
+2627664 -rw-r--r-- 1 fpetry fpetry  675 Dec 17 13:06 .profile
+2631216 -rw-r--r-- 1 fpetry fpetry 4.0K Dec 17 13:17 secret.docx
+2631218 -rw------- 1 fpetry fpetry  908 Dec 17 13:21 .vitotal 36K
+2624184 drwxr-xr-x 2 fpetry fpetry 4.0K Dec 17 13:32 .
+2621441 drwxr-xr-x 5 root   root   4.0K Dec 17 13:06 ..
+2631209 -rw------- 1 fpetry fpetry   42 Dec 17 13:07 .bash_history
+2627663 -rw-r--r-- 1 fpetry fpetry  220 Dec 17 13:06 .bash_logout
+2631208 -rw-r--r-- 1 fpetry fpetry 3.7K Dec 17 13:06 .bashrc
+2631221 -rw------- 1 fpetry fpetry   33 Dec 17 13:24 .lesshst
+2627664 -rw-r--r-- 1 fpetry fpetry  675 Dec 17 13:06 .profile
+2631216 -rw-r--r-- 1 fpetry fpetry 4.0K Dec 17 13:17 secrls -alih
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFhNxEIBCACokqjLjvpwnm/lCdKTnT/vFqnohml2xZo/WiMAr4h3CdTal4yf
+CBbYeZYXI4S9RNVl3+5j2h2yCssQ5S4ydWV2oy550qqh7K41u78L4FcT4lwgdbhD
+gHyRdiHpqZ15JIdHQBm1Tc4ZQNKiRmzgDZqroa/YfkGi7l35BDGId9VjwttZg6y4
+4I4j0NwnSdkhx3je+YUhDRSXXw55jhLsCqEVUaBpl4T3y93QkbxSEupPOQZ2TBNJ
+Hv454UDToUU9SwgkhARivA7dMV43RR21hyUdFAuRcVXzEZCS1nsF7nE9sgVGZ6fs
+BXeU/oPF6o86TqgPkBKrwYk2XTA3pf1DgVyvABEBAAG0I29wZXJhdG9yIGZyb20g
+aGVsbCA8dGVhbUBraXRjdGYuZGU+iQFOBBMBCAA4FiEE0Rl3XS1+y7q+DPr51DzA
+YtDYFh8FAlhNxEICGwMFCwkIBwIGFQgJCgsCBBYCAwECHgECF4AACgkQ1DzAYtDY
+Fh/FoQgAj5df/QfWefsQrMkGEH38prNfPXRN8+G2gJbjYj2fliKvwqiOAiX7AtoQ
+txlwU45eVCRwSq41uLBOhNiNDKlo62Rlz5d7ZCRd0hoewPpH+gMVrsUBym3WNy6k
+kvHBelOWOTqDSEW/BWyhk+UTDnMb1M0LP/NpcDHbYvR/KQhaP2N1SRz9Ye05Xs/B
+DRT+lzFnXstgXsPrOOXV1J4924IfbwGRamx0N4aDzEUqkN80PfwTjaCWdrz0Cgym
+BYVZOpHKuoDS/IK6/jxo4Q5N+BlAkN+9a7VeofbSor4X5Whrcr1hkIfGZ2xFAGsq
+wTxTZsO5Kxg6O3Q2X4J4Wv5sntaJGbkBDQRYTcRCAQgA1NCwlE21HcHZDBMrP5ww
+0F3POpoNv9umqrEfZhijhZ6DemJI8x9bImQyQGpJmyzUrUNSD4Il6dLZ6izT8Qme
+QAZ4jVs76qjm2NnK4a8Y8FbvbVhy3FF38rom4jUkq2kEGRD9MCBZU4v8EFFxdUHB
+TO/+asPieFvOje8quYOGQvm8Pv2yESpW2qRqZSqtpW3ovtWCrwuhtqNE2MkaKfzR
+sWJ59ZFGcj+8FnEEZpZ6ssCHC1cKy01w6yTUwiCz0uYhrBp694YI0Aj1L9haeB92
+RtA3YsoQ/5WOtA2cDB4+E402okCQAQbx6nQphYLkqQRsk+G9JWdqjfUVRw9sQnbo
+lQARAQABiQE2BBgBCAAgFiEE0Rl3XS1+y7q+DPr51DzAYtDYFh8FAlhNxEICGwwA
+CgkQ1DzAYtDYFh/5wwf/Rkx/aRIO8gdGh9grecQ3RT0zUh4nuJD+IOryBp+Unf9h
+8vuSDI1m1cFq3bBAiaZE3xq91dMG9jG3upMI4ZSzxtStD7k38BnFFausoAtO/2PN
+CqghyAdZUixFDFdJh0/F1tVwAi435dNRdGYQfgOgwx9z11nexDS8V+VKYj3cQFrg
+M5SIARGzI/G7vI53KLL6DeACUVG/ihjGfxZKaqgUKwlK8LUjzYQDH7foUyT3JcRY
+VSBmYq2jEFoMoV8BJHYFDd1/0T/Q7p5sTNfnPmkuHShoL9xoWs3F1uZ7qAu62S/z
+lv+fGfdzCZnubp254S3mLsyokuyZ7xjy/i0m2a5fVQ==
+=XS5g
+-----END PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+
+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
+gpg --encrypt --recipient team@kitctf.de --trust-model always secret.docx
+ls -alih
+rm secret.docx.gpg
+ls -alih
+rm -rf .gnupg
+ls -alih
